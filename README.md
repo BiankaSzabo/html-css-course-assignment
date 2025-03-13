@@ -1,33 +1,33 @@
-# HTML & CSS Course Assignment
+# Rainy Days - Outdoor Clothing for Every Weather
 
-## Brief
+Welcome to **Rainy Days**, your one-stop online store for high-quality jackets designed for outdoor enthusiasts who embrace the elements, rain or shine. Whether you're hiking, camping, or just exploring the great outdoors, we’ve got the perfect jacket to keep you comfortable and protected no matter the weather.
 
-You must deliver a properly functioning, responsive website for the assignment brief you chose in Design 1.
+---
 
-The site needs to have every page listed in the site architecture on your chosen brief. Certain functionality requiring JavaScript can be mimicked; for example, a login page could link across from the ‘Sign in’ button.
+## 🌧️ What We Offer:
+- **Waterproof Jackets**: Stay dry and stylish with our collection of waterproof jackets, ideal for rainy hikes or mountain expeditions.
+- **Breathable Outerwear**: Experience comfort with breathable materials that regulate temperature and moisture, perfect for active adventures.
+- **Insulated Jackets**: Keep warm in even the coldest weather with our insulated jackets that are built for the harshest climates.
+- **Versatile Designs**: From sleek and minimalist designs to rugged, functional styles, find jackets that fit your outdoor needs and personal style.
+- **Eco-Friendly Options**: Our commitment to sustainability means offering jackets made from recycled materials and eco-conscious production practices.
+- **Adventure-Ready Gear**: Not just jackets – we offer a full range of outdoor apparel and accessories to complete your gear collection.
 
-- The HTML should be semantic and neat.
-- The CSS should follow the DRY principle and be easy to read.
-- The website should be responsive and look good at every screen size with no horizontal scrollbars. Use Flexbox and CSS Grids where appropriate. Please do not use a CSS framework like Bootstrap; we want to see that you can build responsive sites without the help of a framework.
-- The site should be WCAG compliant, and accessibility should be taken into account.
-- Each page should have a unique <meta name="description">, <title>, and <h1>.
-- You should not use copied code in your submission. All code submitted must be written by yourself. You may use external sources to show you how to achieve specific effects, which should be included in your report.
+---
 
-## Process
+## 🌟 Why Choose Rainy Days?
 
-1. Look at your prototype and consider how the elements will move across the different devices. Which elements move where on different devices?
-2. Write your HTML and CSS, ensuring your HTML is semantic and bug-free and your CSS follows DRY principles.
-3. Use media queries, flex or grid to make your website responsive across screen sizes.
-4. Test your website using your developer tools and also test on major browsers and various devices.
-5. Validate your code using the Markup Validation Service
-6. Use the WAVE Web Accessibility Evaluation Tools to test that your site matches best practices for accessibility
-7. When your site is ready, post it on the Teams peer review channel.
-8. Look at the work of your peers and write a review for them.
-9. Make adjustments based on the feedback you gather from peers and teachers.
-10. Submit here on Teams.
+At **Rainy Days**, we believe that the right gear makes all the difference. Our jackets are crafted with outdoor adventurers in mind – combining performance, style, and durability for every journey. Whether you’re braving a rainy forest or scaling a snowy peak, our gear will keep you protected and looking great.
 
-## Delivery
+---
 
-- Please include a link to your live site, deployed on Netlify or GitHub Pages in your submission.
-- Please include a link to your public GitHub repo containing your code in your submission.
-- There is no reflection for this CA.
+## 🚚 Free Shipping & Returns
+
+We offer **free shipping** on all orders and hassle-free returns so you can shop with confidence. If you're not completely satisfied with your purchase, we’ll make it right.
+
+---
+
+## 📞 Get in Touch
+
+Have any questions or need help finding the right jacket for your next outdoor adventure? Our customer service team is here to assist you. Reach out to us anytime!
+
+---
